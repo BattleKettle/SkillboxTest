@@ -1,0 +1,7 @@
+C:\Users\nik\source\repos\StartToLearn\StartToLearn\bin\Debug\StartToLearn.exe.config
+C:\Users\nik\source\repos\StartToLearn\StartToLearn\bin\Debug\StartToLearn.exe
+C:\Users\nik\source\repos\StartToLearn\StartToLearn\bin\Debug\StartToLearn.pdb
+C:\Users\nik\source\repos\StartToLearn\StartToLearn\obj\Debug\StartToLearn.csproj.AssemblyReference.cache
+C:\Users\nik\source\repos\StartToLearn\StartToLearn\obj\Debug\StartToLearn.csproj.CoreCompileInputs.cache
+C:\Users\nik\source\repos\StartToLearn\StartToLearn\obj\Debug\StartToLearn.exe
+C:\Users\nik\source\repos\StartToLearn\StartToLearn\obj\Debug\StartToLearn.pdb

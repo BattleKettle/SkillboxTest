@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nik\\source\\repos\\StartToLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4896CE-0DEC-4D3F-A7E7-42347E4E7CBB}|StartToLearn\\StartToLearn.csproj|c:\\users\\nik\\source\\repos\\starttolearn\\starttolearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4896CE-0DEC-4D3F-A7E7-42347E4E7CBB}|StartToLearn\\StartToLearn.csproj|solutionrelative:starttolearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nik\\source\\repos\\StartToLearn\\StartToLearn\\Program.cs",
+              "RelativeDocumentMoniker": "StartToLearn\\Program.cs",
+              "ToolTip": "C:\\Users\\nik\\source\\repos\\StartToLearn\\StartToLearn\\Program.cs",
+              "RelativeToolTip": "StartToLearn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:25:04.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
